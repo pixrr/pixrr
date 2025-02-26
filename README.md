@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixrr&label=Profile%20views&color=0e75b6&style=flat" alt="pixrr" /> </p>
 
-- 🔭 Je travaille actuellement sur **une mission Freelance pour un grand compte**
+- 🔭 Je travaille actuellement en  **mission Freelance**
 
 - 🌱 J'apprends actuellement **Next.js / React**
 
