@@ -21,10 +21,10 @@
 
 ### Articles de blog
 <!-- BLOG-POST-LIST:START -->
-- [Déployer facilement vos applications avec Coolify](https://pixrr.fr/posts/deployer-vos-applications-avec-coolify/)
-- [Améliorer la disponibilité de votre site web avec du CDN](https://pixrr.fr/posts/cdn-pour-ameliorer-la-vitesse-et-la-disponibilite-de-votre-site-web/)
-- [Maîtriser Git et Github : une introduction au workflow Git Flow](https://pixrr.fr/posts/introduction-au-git-flow/)
-- [Comment utiliser la méthode Pomodoro pour améliorer sa productivité](https://pixrr.fr/posts/methode-pomodoro/)
+- [Comment dire non aux projets clients](https://pixrr.fr/posts/comment-dire-non-aux-projets-clients/)
+- [Erreurs courantes Git et comment les corriger](https://pixrr.fr/posts/erreurs-courantes-git-et-comment-les-corriger/)
+- [Automatiser son workflow avec GitHub Actions](https://pixrr.fr/posts/automatiser-son-workflow-avec-github-actions/)
+- [Écrire des tests unitaires efficacement](https://pixrr.fr/posts/ecrire-des-tests-unitaires-efficacement/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Pour me suivre:</h3>
