@@ -24,7 +24,7 @@
 - [Comment dire non aux projets clients](https://pixrr.fr/posts/comment-dire-non-aux-projets-clients/)
 - [Automatiser son workflow avec GitHub Actions](https://pixrr.fr/posts/automatiser-son-workflow-avec-github-actions/)
 - [Erreurs courantes Git et comment les corriger](https://pixrr.fr/posts/erreurs-courantes-git-et-comment-les-corriger/)
-- [Principes et mise en place du CI/CD](https://pixrr.fr/posts/principes-et-mise-en-place-du-ci-cd/)
+- [Comparatif des hébergeurs modernes pour développeurs](https://pixrr.fr/posts/comparatif-hebergeurs-modernes-pour-developpeurs/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Pour me suivre:</h3>
