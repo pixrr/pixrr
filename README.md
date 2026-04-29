@@ -21,10 +21,10 @@
 
 ### Articles de blog
 <!-- BLOG-POST-LIST:START -->
-- [Comment dire non aux projets clients](https://pixrr.fr/posts/comment-dire-non-aux-projets-clients/)
 - [Automatiser son workflow avec GitHub Actions](https://pixrr.fr/posts/automatiser-son-workflow-avec-github-actions/)
-- [Erreurs courantes Git et comment les corriger](https://pixrr.fr/posts/erreurs-courantes-git-et-comment-les-corriger/)
+- [Comment dire non aux projets clients](https://pixrr.fr/posts/comment-dire-non-aux-projets-clients/)
 - [Comparatif des hébergeurs modernes pour développeurs](https://pixrr.fr/posts/comparatif-hebergeurs-modernes-pour-developpeurs/)
+- [Configurer un reverse proxy avec Nginx ou Traefik](https://pixrr.fr/posts/configurer-un-reverse-proxy-avec-nginx-ou-traefik/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Pour me suivre:</h3>
