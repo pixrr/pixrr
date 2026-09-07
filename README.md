@@ -21,10 +21,10 @@
 
 ### Articles de blog
 <!-- BLOG-POST-LIST:START -->
+- [WebMCP : rendre son site pilotable par les agents IA](https://pixrr.fr/posts/webmcp-site-pilotable-par-agents-ia/)
 - [Créer et publier un package npm : le guide complet](https://pixrr.fr/posts/creer-et-publier-un-package-npm/)
 - [Créer et publier un package PHP avec Composer et Packagist](https://pixrr.fr/posts/creer-et-publier-un-package-php-avec-composer/)
 - [Automatiser son workflow avec GitHub Actions](https://pixrr.fr/posts/automatiser-son-workflow-avec-github-actions/)
-- [Comment dire non aux projets clients](https://pixrr.fr/posts/comment-dire-non-aux-projets-clients/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Pour me suivre:</h3>
